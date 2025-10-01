@@ -2,7 +2,7 @@
 title: "The ParClusterers Benchmark Suite (PCBS): A Fine-Grained Analysis of Scalable Graph Clustering"
 collection: publications
 category: manuscripts
-permalink: /publication/parclusters
+permalink: 'https://www.vldb.org/pvldb/vol18/p836-yu.pdf'
 excerpt: 'We introduce the ParClusterers Benchmark Suite (PCBS)—a collection of highly scalable parallel graph clustering algorithms and benchmarking tools that streamline comparing different graph clustering algorithms and implementations.'
 date: 2024-11-15
 venue: 'PVLDB'
