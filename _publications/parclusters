@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/parclusters
 excerpt: 'We introduce the ParClusterers Benchmark Suite (PCBS)—a collection of highly scalable parallel graph clustering algorithms and benchmarking tools that streamline comparing different graph clustering algorithms and implementations.'
 date: 2024-11-15
-venue: 'VLDB 2025'
+venue: 'PVLDB'
 paperurl: 'https://www.vldb.org/pvldb/vol18/p836-yu.pdf'
 citation: 'Shangdi Yu, Jessica Shi, Jamison Meindl, David Eisenstat, Xiaoen Ju, Sasan Tavakkol, Laxman Dhulipala, Jakub Łącki, Vahab Mirrokni, and Julian Shun. The ParClusterers Benchmark Suite (PCBS): A Fine-Grained Analysis of Scalable Graph Clustering. PVLDB, 18(3): 836- 849, 2024. doi:10.14778/3712221.3712246'
 ---
