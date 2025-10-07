@@ -1,0 +1,9 @@
+---
+title: "ZeroShotOpt: Towards Zero-Shot Pretrained Models for Efficient Black-Box Optimization"
+collection: publications
+permalink: 'https://www.arxiv.org/abs/2510.03051'
+excerpt: 'We present ZeroShotOpt, a general-purpose, pretrained model for continuous black-box optimization tasks ranging from 2D to 20D.'
+date: 2025-10-03
+venue: 'Preprint'
+paperurl: 'https://www.arxiv.org/abs/2510.03051'
+---
