@@ -1,9 +1,9 @@
 ---
 title: "SemanticOpt: Towards LLM-Based Semantic Black-Box Optimization"
 collection: publications
-permalink: 'https://www.arxiv.org/pdf/2510.25404'
+link: "https://arxiv.org/abs/2510.25404"
 excerpt: 'We present SemanticOpt, an LLM-based black-box optimization method that leverages problem-specific semantic information and fine-tuning from Bayesian optimization methods to propose high-quality candidates efficiently.'
 date: 2026-5-15
 venue: 'arXiv'
-paperurl: 'https://www.arxiv.org/abs/2510.25404'
+paperurl: 'https://arxiv.org/paper/2510.25404'
 ---
